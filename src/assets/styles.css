@@ -26,7 +26,7 @@ html {
 
 body, input, textarea, option, select, table, form {
     font: inherit;
-    background: var(--color-body-bgrd, #FFF);
+    background: var(--color-body-bgrd, rgb(205, 233, 129));
     color: var(--color-body-text, #000);
 }
 
@@ -48,7 +48,7 @@ h6 { font-size: 1em; }
 
 a {
     text-decoration: none;
-    color: var(--color-link-default, rgb(10, 128, 238));
+    color: var(--color-link-default, rgb(2, 139, 36));
 }
 
 p, ul, ol {
